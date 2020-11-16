@@ -1,0 +1,2966 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": null,
+      "symbol": "ActiveLabel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 12,
+      "symbol": "ActiveLabelDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 13,
+      "symbol": "ActiveLabelDelegate.didSelect(_:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 16,
+      "symbol": "ConfigureLinkAttribute",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 19,
+      "symbol": "ActiveLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 22,
+      "symbol": "ActiveLabel.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 24,
+      "symbol": "ActiveLabel.enabledTypes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 26,
+      "symbol": "ActiveLabel.urlMaximumLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 28,
+      "symbol": "ActiveLabel.configureLinkAttribute",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 30,
+      "symbol": "ActiveLabel.mentionColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 33,
+      "symbol": "ActiveLabel.mentionSelectedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 36,
+      "symbol": "ActiveLabel.hashtagColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 39,
+      "symbol": "ActiveLabel.hashtagSelectedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 42,
+      "symbol": "ActiveLabel.URLColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 45,
+      "symbol": "ActiveLabel.URLSelectedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 48,
+      "symbol": "ActiveLabel.customColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 51,
+      "symbol": "ActiveLabel.customSelectedColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 54,
+      "symbol": "ActiveLabel.lineSpacing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 57,
+      "symbol": "ActiveLabel.minimumLineHeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 60,
+      "symbol": "ActiveLabel.highlightFontName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 63,
+      "symbol": "ActiveLabel.highlightFontSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 74,
+      "symbol": "ActiveLabel.handleMentionTap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 78,
+      "symbol": "ActiveLabel.handleHashtagTap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 82,
+      "symbol": "ActiveLabel.handleURLTap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 86,
+      "symbol": "ActiveLabel.handleCustomTap(for:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 90,
+      "symbol": "ActiveLabel.removeHandle(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 103,
+      "symbol": "ActiveLabel.filterMention(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 108,
+      "symbol": "ActiveLabel.filterHashtag(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 114,
+      "symbol": "ActiveLabel.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 118,
+      "symbol": "ActiveLabel.attributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 122,
+      "symbol": "ActiveLabel.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 126,
+      "symbol": "ActiveLabel.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 130,
+      "symbol": "ActiveLabel.textAlignment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 134,
+      "symbol": "ActiveLabel.numberOfLines",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 138,
+      "symbol": "ActiveLabel.lineBreakMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 143,
+      "symbol": "ActiveLabel.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 149,
+      "symbol": "ActiveLabel.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 155,
+      "symbol": "ActiveLabel.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 160,
+      "symbol": "ActiveLabel.drawText(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 173,
+      "symbol": "ActiveLabel.customize(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 183,
+      "symbol": "ActiveLabel.intrinsicContentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 455,
+      "symbol": "ActiveLabel.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 461,
+      "symbol": "ActiveLabel.touchesMoved(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 467,
+      "symbol": "ActiveLabel.touchesCancelled(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 473,
+      "symbol": "ActiveLabel.touchesEnded(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 515,
+      "symbol": "ActiveLabel.gestureRecognizer(_:shouldRecognizeSimultaneouslyWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 519,
+      "symbol": "ActiveLabel.gestureRecognizer(_:shouldRequireFailureOf:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveLabel.swift",
+      "line": 523,
+      "symbol": "ActiveLabel.gestureRecognizer(_:shouldBeRequiredToFailBy:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": null,
+      "symbol": "ActiveType",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": 27,
+      "symbol": "ActiveType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": 28,
+      "symbol": "ActiveType.mention",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": 29,
+      "symbol": "ActiveType.hashtag",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": 30,
+      "symbol": "ActiveType.url",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": 31,
+      "symbol": "ActiveType.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ActiveLabel/ActiveType.swift",
+      "line": 54,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 28,
+      "symbol": "WalkthroughAnimationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 29,
+      "symbol": "WalkthroughAnimationType.Linear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 30,
+      "symbol": "WalkthroughAnimationType.Curve",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 31,
+      "symbol": "WalkthroughAnimationType.Zoom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 32,
+      "symbol": "WalkthroughAnimationType.InOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 44,
+      "symbol": "BWWalkthroughPageViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 52,
+      "symbol": "BWWalkthroughPageViewController.speed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 53,
+      "symbol": "BWWalkthroughPageViewController.speedVariance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 54,
+      "symbol": "BWWalkthroughPageViewController.animationType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 62,
+      "symbol": "BWWalkthroughPageViewController.animateAlpha",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 63,
+      "symbol": "BWWalkthroughPageViewController.staticTags",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughPageViewController.swift",
+      "line": 74,
+      "symbol": "BWWalkthroughPageViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 35,
+      "symbol": "BWWalkthroughViewControllerDelegate.walkthroughCloseButtonPressed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 36,
+      "symbol": "BWWalkthroughViewControllerDelegate.walkthroughNextButtonPressed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 37,
+      "symbol": "BWWalkthroughViewControllerDelegate.walkthroughPrevButtonPressed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 38,
+      "symbol": "BWWalkthroughViewControllerDelegate.walkthroughPageDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 69,
+      "symbol": "BWWalkthroughViewController.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 72,
+      "symbol": "BWWalkthroughViewController.pageControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 73,
+      "symbol": "BWWalkthroughViewController.nextButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 74,
+      "symbol": "BWWalkthroughViewController.prevButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 75,
+      "symbol": "BWWalkthroughViewController.closeButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 77,
+      "symbol": "BWWalkthroughViewController.currentPage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 84,
+      "symbol": "BWWalkthroughViewController.currentViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 91,
+      "symbol": "BWWalkthroughViewController.numberOfPages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 100,
+      "symbol": "BWWalkthroughViewController.scrollview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 107,
+      "symbol": "BWWalkthroughViewController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 119,
+      "symbol": "BWWalkthroughViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 140,
+      "symbol": "BWWalkthroughViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 152,
+      "symbol": "BWWalkthroughViewController.nextPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 160,
+      "symbol": "BWWalkthroughViewController.prevPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 262,
+      "symbol": "BWWalkthroughViewController.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 286,
+      "symbol": "BWWalkthroughViewController.scrollViewDidEndDecelerating(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 290,
+      "symbol": "BWWalkthroughViewController.scrollViewDidEndScrollingAnimation(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 306,
+      "symbol": "BWWalkthroughViewController.willTransition(to:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BWWalkthrough/BWWalkthroughViewController.swift",
+      "line": 310,
+      "symbol": "BWWalkthroughViewController.viewWillTransition(to:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 11,
+      "symbol": "BmoViewPagerDataSource",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 12,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNumberOfPage(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 13,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSource(_:viewControllerForPageAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 15,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNaviagtionBarItemTitle(_:navigationBar:forPageListAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 16,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNaviagtionBarItemSize(_:navigationBar:forPageListAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 17,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNaviagtionBarItemNormalAttributed(_:navigationBar:forPageListAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 18,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNaviagtionBarItemHighlightedAttributed(_:navigationBar:forPageListAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 19,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNaviagtionBarItemNormalBackgroundView(_:navigationBar:forPageListAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 20,
+      "symbol": "BmoViewPagerDataSource.bmoViewPagerDataSourceNaviagtionBarItemHighlightedBackgroundView(_:navigationBar:forPageListAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 22,
+      "symbol": "BmoViewPagerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 23,
+      "symbol": "BmoViewPagerDelegate.bmoViewPagerDelegate(_:pageChanged:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 24,
+      "symbol": "BmoViewPagerDelegate.bmoViewPagerDelegate(_:shouldSelect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 25,
+      "symbol": "BmoViewPagerDelegate.bmoViewPagerDelegate(_:scrollProgress:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 26,
+      "symbol": "BmoViewPagerDelegate.bmoViewPagerDelegate(_:didAppear:page:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 30,
+      "symbol": "BmoViewPager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 85,
+      "symbol": "BmoViewPager.scrollable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 92,
+      "symbol": "BmoViewPager.lastPresentedPageIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 93,
+      "symbol": "BmoViewPager.presentedPageIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 123,
+      "symbol": "BmoViewPager.pageControlIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 132,
+      "symbol": "BmoViewPager.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 138,
+      "symbol": "BmoViewPager.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 153,
+      "symbol": "BmoViewPager.bounds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 164,
+      "symbol": "BmoViewPager.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 172,
+      "symbol": "BmoViewPager.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 196,
+      "symbol": "BmoViewPager.reloadData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 211,
+      "symbol": "BmoViewPager.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 262,
+      "symbol": "BmoViewPager.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPager.swift",
+      "line": 267,
+      "symbol": "BmoViewPager.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPagerNavigationBar.swift",
+      "line": 19,
+      "symbol": "BmoViewPagerNavigationBar",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPagerNavigationBar.swift",
+      "line": 20,
+      "symbol": "BmoViewPagerNavigationBar.viewPager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPagerNavigationBar.swift",
+      "line": 48,
+      "symbol": "BmoViewPagerNavigationBar.didMoveToWindow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPagerNavigationBar.swift",
+      "line": 58,
+      "symbol": "BmoViewPagerNavigationBar.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPagerNavigationBar.swift",
+      "line": 90,
+      "symbol": "BmoViewPagerNavigationBar.reloadData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/BmoViewPagerNavigationBar.swift",
+      "line": 101,
+      "symbol": "BmoViewPagerNavigationBar.focusToTargetItem()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/String+BmoViewPager.swift",
+      "line": 20,
+      "symbol": "StringBmoVPProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/String+BmoViewPager.swift",
+      "line": 21,
+      "symbol": "StringBmoVPProxy.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/String+BmoViewPager.swift",
+      "line": 22,
+      "symbol": "StringBmoVPProxy.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/String+BmoViewPager.swift",
+      "line": 26,
+      "symbol": "StringBmoVPCompatible",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/String+BmoViewPager.swift",
+      "line": 27,
+      "symbol": "StringBmoVPCompatible.bmoVP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/String+BmoViewPager.swift",
+      "line": 31,
+      "symbol": "String.bmoVP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": null,
+      "symbol": "ViewBmoVPProxy",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 10,
+      "symbol": "ViewBmoVPProxy",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 11,
+      "symbol": "ViewBmoVPProxy.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 12,
+      "symbol": "ViewBmoVPProxy.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 16,
+      "symbol": "ViewBmoVPCompatible",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 17,
+      "symbol": "ViewBmoVPCompatible.bmoVP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 21,
+      "symbol": "UIView.bmoVP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 51,
+      "symbol": "ViewBmoVPProxy.index()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 54,
+      "symbol": "ViewBmoVPProxy.setIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 57,
+      "symbol": "ViewBmoVPProxy.ownerVC()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 60,
+      "symbol": "ViewBmoVPProxy.setOwner(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/BmoViewPager/Extension/UIView+BmoViewPager.swift",
+      "line": 63,
+      "symbol": "ViewBmoVPProxy.autoFit(_:topView:margin:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 28,
+      "symbol": "ESRefreshFooterAnimator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 30,
+      "symbol": "ESRefreshFooterAnimator.loadingMoreDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 31,
+      "symbol": "ESRefreshFooterAnimator.noMoreDataDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 32,
+      "symbol": "ESRefreshFooterAnimator.loadingDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 34,
+      "symbol": "ESRefreshFooterAnimator.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 35,
+      "symbol": "ESRefreshFooterAnimator.duration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 36,
+      "symbol": "ESRefreshFooterAnimator.insets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 37,
+      "symbol": "ESRefreshFooterAnimator.trigger",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 38,
+      "symbol": "ESRefreshFooterAnimator.executeIncremental",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 39,
+      "symbol": "ESRefreshFooterAnimator.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 55,
+      "symbol": "ESRefreshFooterAnimator.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 62,
+      "symbol": "ESRefreshFooterAnimator.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 82,
+      "symbol": "ESRefreshFooterAnimator.refresh(view:stateDidChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshFooterAnimator.swift",
+      "line": 104,
+      "symbol": "ESRefreshFooterAnimator.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 31,
+      "symbol": "ESRefreshHeaderAnimator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 32,
+      "symbol": "ESRefreshHeaderAnimator.pullToRefreshDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 39,
+      "symbol": "ESRefreshHeaderAnimator.releaseToRefreshDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 40,
+      "symbol": "ESRefreshHeaderAnimator.loadingDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 42,
+      "symbol": "ESRefreshHeaderAnimator.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 43,
+      "symbol": "ESRefreshHeaderAnimator.insets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 44,
+      "symbol": "ESRefreshHeaderAnimator.trigger",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 45,
+      "symbol": "ESRefreshHeaderAnimator.executeIncremental",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 46,
+      "symbol": "ESRefreshHeaderAnimator.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 74,
+      "symbol": "ESRefreshHeaderAnimator.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 82,
+      "symbol": "ESRefreshHeaderAnimator.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 107,
+      "symbol": "ESRefreshHeaderAnimator.refresh(view:stateDidChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/Animator/ESRefreshHeaderAnimator.swift",
+      "line": 140,
+      "symbol": "ESRefreshHeaderAnimator.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": null,
+      "symbol": "ES",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": null,
+      "symbol": "ESExtensionsProvider",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": 12,
+      "symbol": "ESExtensionsProvider",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": 13,
+      "symbol": "ESExtensionsProvider.CompatibleType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": 14,
+      "symbol": "ESExtensionsProvider.es",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": 25,
+      "symbol": "ES",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ES.swift",
+      "line": 26,
+      "symbol": "ES.base",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 28,
+      "symbol": "ESRefreshDataManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 34,
+      "symbol": "ESRefreshDataManager.lastRefreshInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 35,
+      "symbol": "ESRefreshDataManager.expiredTimeIntervalInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 37,
+      "symbol": "ESRefreshDataManager.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 46,
+      "symbol": "ESRefreshDataManager.date(forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 51,
+      "symbol": "ESRefreshDataManager.setDate(_:forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 57,
+      "symbol": "ESRefreshDataManager.expiredTimeInterval(forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 62,
+      "symbol": "ESRefreshDataManager.setExpiredTimeInterval(_:forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 68,
+      "symbol": "ESRefreshDataManager.isExpired(forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 81,
+      "symbol": "ESRefreshDataManager.isExpired(forKey:block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 91,
+      "symbol": "ESRefreshDataManager.clearAll()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 96,
+      "symbol": "ESRefreshDataManager.clearLastRefreshInfo()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh+Manager.swift",
+      "line": 100,
+      "symbol": "ESRefreshDataManager.clearExpiredTimeIntervalInfo()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 61,
+      "symbol": "ES.addPullToRefresh(animator:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 84,
+      "symbol": "ES.addInfiniteScrolling(animator:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 101,
+      "symbol": "ES.removeRefreshFooter()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 141,
+      "symbol": "ES.resetNoMoreData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 145,
+      "symbol": "ES.stopLoadingMore()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 169,
+      "symbol": "UIScrollView.expiredTimeInterval",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 197,
+      "symbol": "ESRefreshHeaderView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 202,
+      "symbol": "ESRefreshHeaderView.lastRefreshTimestamp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 203,
+      "symbol": "ESRefreshHeaderView.refreshIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 205,
+      "symbol": "ESRefreshHeaderView.init(frame:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 211,
+      "symbol": "ESRefreshHeaderView.didMoveToSuperview()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 220,
+      "symbol": "ESRefreshHeaderView.offsetChangeAction(object:change:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 276,
+      "symbol": "ESRefreshHeaderView.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 313,
+      "symbol": "ESRefreshHeaderView.stop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 340,
+      "symbol": "ESRefreshFooterView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 342,
+      "symbol": "ESRefreshFooterView.noMoreData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 350,
+      "symbol": "ESRefreshFooterView.isHidden",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 366,
+      "symbol": "ESRefreshFooterView.init(frame:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 388,
+      "symbol": "ESRefreshFooterView.sizeChangeAction(object:change:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 399,
+      "symbol": "ESRefreshFooterView.offsetChangeAction(object:change:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 433,
+      "symbol": "ESRefreshFooterView.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESPullToRefresh.swift",
+      "line": 452,
+      "symbol": "ESRefreshFooterView.stop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 29,
+      "symbol": "ESRefreshAnimator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 31,
+      "symbol": "ESRefreshAnimator.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 33,
+      "symbol": "ESRefreshAnimator.insets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 35,
+      "symbol": "ESRefreshAnimator.trigger",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 37,
+      "symbol": "ESRefreshAnimator.executeIncremental",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 39,
+      "symbol": "ESRefreshAnimator.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 41,
+      "symbol": "ESRefreshAnimator.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 50,
+      "symbol": "ESRefreshAnimator.refreshAnimationWillEnd(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshAnimator.swift",
+      "line": 62,
+      "symbol": "ESRefreshAnimator.refresh(view:stateDidChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": null,
+      "symbol": "ESRefreshComponent",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 29,
+      "symbol": "ESRefreshHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 31,
+      "symbol": "ESRefreshComponent",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 33,
+      "symbol": "ESRefreshComponent.scrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 43,
+      "symbol": "ESRefreshComponent.isRefreshing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 51,
+      "symbol": "ESRefreshComponent.isAutoRefreshing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 61,
+      "symbol": "ESRefreshComponent.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 66,
+      "symbol": "ESRefreshComponent.init(frame:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 72,
+      "symbol": "ESRefreshComponent.init(frame:handler:animator:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 78,
+      "symbol": "ESRefreshComponent.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 86,
+      "symbol": "ESRefreshComponent.willMove(toSuperview:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 96,
+      "symbol": "ESRefreshComponent.didMoveToSuperview()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 120,
+      "symbol": "ESRefreshComponent.startRefreshing(isAuto:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 131,
+      "symbol": "ESRefreshComponent.stopRefreshing()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 139,
+      "symbol": "ESRefreshComponent.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 143,
+      "symbol": "ESRefreshComponent.stop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 149,
+      "symbol": "ESRefreshComponent.sizeChangeAction(object:change:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 154,
+      "symbol": "ESRefreshComponent.offsetChangeAction(object:change:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 166,
+      "symbol": "ESRefreshComponent.ignoreObserver(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshComponent.swift",
+      "line": 189,
+      "symbol": "ESRefreshComponent.observeValue(forKeyPath:of:change:context:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": null,
+      "symbol": "ESRefreshImpactProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 29,
+      "symbol": "ESRefreshViewState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 30,
+      "symbol": "ESRefreshViewState.pullToRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 31,
+      "symbol": "ESRefreshViewState.releaseToRefresh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 32,
+      "symbol": "ESRefreshViewState.refreshing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 33,
+      "symbol": "ESRefreshViewState.autoRefreshing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 34,
+      "symbol": "ESRefreshViewState.noMoreData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 62,
+      "symbol": "ESRefreshProtocol.refresh(view:stateDidChange:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 66,
+      "symbol": "ESRefreshAnimatorProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 69,
+      "symbol": "ESRefreshAnimatorProtocol.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 72,
+      "symbol": "ESRefreshAnimatorProtocol.insets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 75,
+      "symbol": "ESRefreshAnimatorProtocol.trigger",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 78,
+      "symbol": "ESRefreshAnimatorProtocol.executeIncremental",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 81,
+      "symbol": "ESRefreshAnimatorProtocol.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 111,
+      "symbol": "ESRefreshImpactProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/ESPullToRefresh/ESRefreshProtocol.swift",
+      "line": 114,
+      "symbol": "ESRefreshImpactProtocol.impact()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageControl.swift",
+      "line": 12,
+      "symbol": "FSPageControl",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageControl.swift",
+      "line": 82,
+      "symbol": "FSPageControl.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageControl.swift",
+      "line": 87,
+      "symbol": "FSPageControl.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageControl.swift",
+      "line": 92,
+      "symbol": "FSPageControl.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageControl.swift",
+      "line": 104,
+      "symbol": "FSPageControl.layoutSublayers(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageControl.swift",
+      "line": 182,
+      "symbol": "FSPageControl.setAlpha(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 12,
+      "symbol": "FSPagerViewTransformerType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 13,
+      "symbol": "FSPagerViewTransformerType.crossFading",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 14,
+      "symbol": "FSPagerViewTransformerType.zoomOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 15,
+      "symbol": "FSPagerViewTransformerType.depth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 16,
+      "symbol": "FSPagerViewTransformerType.overlap",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 17,
+      "symbol": "FSPagerViewTransformerType.linear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 18,
+      "symbol": "FSPagerViewTransformerType.coverFlow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 19,
+      "symbol": "FSPagerViewTransformerType.ferrisWheel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 20,
+      "symbol": "FSPagerViewTransformerType.invertedFerrisWheel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 21,
+      "symbol": "FSPagerViewTransformerType.cubic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 24,
+      "symbol": "FSPagerViewTransformer",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 26,
+      "symbol": "FSPagerViewTransformer.pagerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 27,
+      "symbol": "FSPagerViewTransformer.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 29,
+      "symbol": "FSPagerViewTransformer.minimumScale",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 30,
+      "symbol": "FSPagerViewTransformer.minimumAlpha",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 33,
+      "symbol": "FSPagerViewTransformer.init(type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 46,
+      "symbol": "FSPagerViewTransformer.applyTransform(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPageViewTransformer.swift",
+      "line": 238,
+      "symbol": "FSPagerViewTransformer.proposedInteritemSpacing()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 16,
+      "symbol": "FSPagerViewDataSource",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 29,
+      "symbol": "FSPagerViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 78,
+      "symbol": "FSPagerViewScrollDirection",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 79,
+      "symbol": "FSPagerViewScrollDirection.horizontal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 80,
+      "symbol": "FSPagerViewScrollDirection.vertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 84,
+      "symbol": "FSPagerView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 88,
+      "symbol": "FSPagerView.dataSource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 89,
+      "symbol": "FSPagerView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 200,
+      "symbol": "FSPagerView.currentIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 245,
+      "symbol": "FSPagerView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 250,
+      "symbol": "FSPagerView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 255,
+      "symbol": "FSPagerView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 262,
+      "symbol": "FSPagerView.willMove(toWindow:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 271,
+      "symbol": "FSPagerView.prepareForInterfaceBuilder()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 290,
+      "symbol": "FSPagerView.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 302,
+      "symbol": "FSPagerView.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 306,
+      "symbol": "FSPagerView.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 315,
+      "symbol": "FSPagerView.collectionView(_:shouldHighlightItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 323,
+      "symbol": "FSPagerView.collectionView(_:didHighlightItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 331,
+      "symbol": "FSPagerView.collectionView(_:shouldSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 339,
+      "symbol": "FSPagerView.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 351,
+      "symbol": "FSPagerView.collectionView(_:willDisplay:forItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 359,
+      "symbol": "FSPagerView.collectionView(_:didEndDisplaying:forItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 367,
+      "symbol": "FSPagerView.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 381,
+      "symbol": "FSPagerView.scrollViewWillBeginDragging(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 390,
+      "symbol": "FSPagerView.scrollViewWillEndDragging(_:withVelocity:targetContentOffset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 401,
+      "symbol": "FSPagerView.scrollViewDidEndDecelerating(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerView.swift",
+      "line": 407,
+      "symbol": "FSPagerView.scrollViewDidEndScrollingAnimation(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 11,
+      "symbol": "FSPagerViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 67,
+      "symbol": "FSPagerViewCell.isHighlighted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 81,
+      "symbol": "FSPagerViewCell.isSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 91,
+      "symbol": "FSPagerViewCell.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 96,
+      "symbol": "FSPagerViewCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 116,
+      "symbol": "FSPagerViewCell.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewCell.swift",
+      "line": 142,
+      "symbol": "FSPagerViewCell.observeValue(forKeyPath:of:change:context:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewLayoutAttributes.swift",
+      "line": 11,
+      "symbol": "FSPagerViewLayoutAttributes",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewLayoutAttributes.swift",
+      "line": 13,
+      "symbol": "FSPagerViewLayoutAttributes.position",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewLayoutAttributes.swift",
+      "line": 15,
+      "symbol": "FSPagerViewLayoutAttributes.isEqual(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/FSPageView/FSPagerViewLayoutAttributes.swift",
+      "line": 24,
+      "symbol": "FSPagerViewLayoutAttributes.copy(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 11,
+      "symbol": "AlertActionHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 16,
+      "symbol": "AlertAction.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 17,
+      "symbol": "AlertAction.style",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 18,
+      "symbol": "AlertAction.handler",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 46,
+      "symbol": "AlertActionStyle.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 47,
+      "symbol": "AlertActionStyle.cancel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 48,
+      "symbol": "AlertActionStyle.destructive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 49,
+      "symbol": "AlertActionStyle.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 113,
+      "symbol": "AlertViewController.loadView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 122,
+      "symbol": "AlertViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 137,
+      "symbol": "AlertViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/AlertViewController.swift",
+      "line": 141,
+      "symbol": "AlertViewController.updateViewConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/CoverHorizontalAnimation.swift",
+      "line": 11,
+      "symbol": "CoverHorizontalAnimation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/CoverHorizontalAnimation.swift",
+      "line": 15,
+      "symbol": "CoverHorizontalAnimation.init(fromRight:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/CoverVerticalAnimation.swift",
+      "line": 11,
+      "symbol": "CoverVerticalAnimation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/CoverVerticalFromTopAnimation.swift",
+      "line": 11,
+      "symbol": "CoverVerticalFromTopAnimation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/CrossDissolveAnimation.swift",
+      "line": 11,
+      "symbol": "CrossDissolveAnimation",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/KeyboardTranslation.swift",
+      "line": 12,
+      "symbol": "KeyboardTranslationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/KeyboardTranslation.swift",
+      "line": 14,
+      "symbol": "KeyboardTranslationType.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/KeyboardTranslation.swift",
+      "line": 15,
+      "symbol": "KeyboardTranslationType.moveUp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/KeyboardTranslation.swift",
+      "line": 16,
+      "symbol": "KeyboardTranslationType.compress",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/KeyboardTranslation.swift",
+      "line": 17,
+      "symbol": "KeyboardTranslationType.stickToTop",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalCenterPosition.swift",
+      "line": 22,
+      "symbol": "ModalCenterPosition.center",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalCenterPosition.swift",
+      "line": 23,
+      "symbol": "ModalCenterPosition.topCenter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalCenterPosition.swift",
+      "line": 24,
+      "symbol": "ModalCenterPosition.bottomCenter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalCenterPosition.swift",
+      "line": 25,
+      "symbol": "ModalCenterPosition.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalCenterPosition.swift",
+      "line": 26,
+      "symbol": "ModalCenterPosition.customOrigin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalSize.swift",
+      "line": 23,
+      "symbol": "ModalSize.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalSize.swift",
+      "line": 24,
+      "symbol": "ModalSize.half",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalSize.swift",
+      "line": 25,
+      "symbol": "ModalSize.full",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalSize.swift",
+      "line": 26,
+      "symbol": "ModalSize.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalSize.swift",
+      "line": 27,
+      "symbol": "ModalSize.fluid",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/ModalSize.swift",
+      "line": 28,
+      "symbol": "ModalSize.sideMargin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 22,
+      "symbol": "PresentationType.alert",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 23,
+      "symbol": "PresentationType.popup",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 24,
+      "symbol": "PresentationType.topHalf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 25,
+      "symbol": "PresentationType.bottomHalf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 26,
+      "symbol": "PresentationType.fullScreen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 27,
+      "symbol": "PresentationType.dynamic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentationType.swift",
+      "line": 28,
+      "symbol": "PresentationType.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr+Equatable.swift",
+      "line": 12,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr+Equatable.swift",
+      "line": 32,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr+Equatable.swift",
+      "line": 48,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 12,
+      "symbol": "PresentrConstants",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 14,
+      "symbol": "PresentrConstants.Values",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 15,
+      "symbol": "PresentrConstants.Values.defaultSideMargin",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 16,
+      "symbol": "PresentrConstants.Values.defaultHeightPercentage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 19,
+      "symbol": "PresentrConstants.Strings",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 20,
+      "symbol": "PresentrConstants.Strings.alertTitle",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 21,
+      "symbol": "PresentrConstants.Strings.alertBody",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 26,
+      "symbol": "DismissSwipeDirection",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 28,
+      "symbol": "DismissSwipeDirection.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 29,
+      "symbol": "DismissSwipeDirection.bottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 30,
+      "symbol": "DismissSwipeDirection.top",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 123,
+      "symbol": "Presentr.init(presentationType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 174,
+      "symbol": "Presentr.presentationController(forPresented:presenting:source:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 178,
+      "symbol": "Presentr.animationController(forPresented:presenting:source:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/Presentr.swift",
+      "line": 182,
+      "symbol": "Presentr.animationController(forDismissed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 14,
+      "symbol": "PresentrTransitionContext.containerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 16,
+      "symbol": "PresentrTransitionContext.initialFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 18,
+      "symbol": "PresentrTransitionContext.finalFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 20,
+      "symbol": "PresentrTransitionContext.isPresenting",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 22,
+      "symbol": "PresentrTransitionContext.fromViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 24,
+      "symbol": "PresentrTransitionContext.toViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 26,
+      "symbol": "PresentrTransitionContext.fromView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 28,
+      "symbol": "PresentrTransitionContext.toView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 30,
+      "symbol": "PresentrTransitionContext.animatingViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 32,
+      "symbol": "PresentrTransitionContext.animatingView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 39,
+      "symbol": "AnimationOptions.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 41,
+      "symbol": "AnimationOptions.spring",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 48,
+      "symbol": "PresentrAnimation.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 50,
+      "symbol": "PresentrAnimation.init(options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 103,
+      "symbol": "PresentrAnimation.transitionDuration(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrAnimation.swift",
+      "line": 112,
+      "symbol": "PresentrAnimation.animateTransition(using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrShadow.swift",
+      "line": 14,
+      "symbol": "PresentrShadow.shadowColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrShadow.swift",
+      "line": 16,
+      "symbol": "PresentrShadow.shadowOpacity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrShadow.swift",
+      "line": 18,
+      "symbol": "PresentrShadow.shadowOffset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrShadow.swift",
+      "line": 20,
+      "symbol": "PresentrShadow.shadowRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/PresentrShadow.swift",
+      "line": 22,
+      "symbol": "PresentrShadow.init(shadowColor:shadowOpacity:shadowOffset:shadowRadius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/TransitionType.swift",
+      "line": 21,
+      "symbol": "TransitionType.crossDissolve",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/TransitionType.swift",
+      "line": 22,
+      "symbol": "TransitionType.coverVertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/TransitionType.swift",
+      "line": 23,
+      "symbol": "TransitionType.coverVerticalFromTop",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/TransitionType.swift",
+      "line": 24,
+      "symbol": "TransitionType.coverHorizontalFromRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/TransitionType.swift",
+      "line": 25,
+      "symbol": "TransitionType.coverHorizontalFromLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/Presentr/TransitionType.swift",
+      "line": 26,
+      "symbol": "TransitionType.custom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/SkyFloatingLabelTextField/SkyFloatingLabelTextField.swift",
+      "line": 269,
+      "symbol": "SkyFloatingLabelTextField.isSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/SkyFloatingLabelTextField/SkyFloatingLabelTextField.swift",
+      "line": 466,
+      "symbol": "SkyFloatingLabelTextField.setTitleVisible(_:animated:animationCompletion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldWithIcon.swift",
+      "line": 20,
+      "symbol": "IconType.font",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldWithIcon.swift",
+      "line": 21,
+      "symbol": "IconType.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/SkyFloatingLabelTextField/SkyFloatingLabelTextFieldWithIcon.swift",
+      "line": 40,
+      "symbol": "SkyFloatingLabelTextFieldWithIcon.iconType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/Supporting Files/Utilities.swift",
+      "line": 36,
+      "symbol": "AttrFont",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/Supporting Files/Utilities.swift",
+      "line": 37,
+      "symbol": "AttrColor",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/Supporting Files/Utilities.swift",
+      "line": 38,
+      "symbol": "AttrImage",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": null,
+      "symbol": "TextAttributes",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 25,
+      "symbol": "LigatureStyle",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 26,
+      "symbol": "LigatureStyle.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 27,
+      "symbol": "LigatureStyle.default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 28,
+      "symbol": "LigatureStyle.all",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 31,
+      "symbol": "VerticalGlyphForm",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 32,
+      "symbol": "VerticalGlyphForm.horizontal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 33,
+      "symbol": "VerticalGlyphForm.vertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 36,
+      "symbol": "TextEffect",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 37,
+      "symbol": "TextEffect.letterpress",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTToolKit/MTToolKit/TextAttributes/TextAttributes.swift",
+      "line": 54,
+      "symbol": "TextAttributes",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lc/Documents/Mantis/MTToolKit"
+}

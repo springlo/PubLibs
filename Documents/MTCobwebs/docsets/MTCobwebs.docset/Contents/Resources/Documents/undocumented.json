@@ -1,0 +1,2203 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/CoreGraphics/CGPoint+MTExt.swift",
+      "line": 155,
+      "symbol": "CGPoint.ExtendedGraphemeClusterLiteralType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/CoreGraphics/CGPoint+MTExt.swift",
+      "line": 182,
+      "symbol": "CGPoint.init(unicodeScalarLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/CoreGraphics/CGRect+MTExt.swift",
+      "line": 92,
+      "symbol": "CGRect.ExtendedGraphemeClusterLiteralType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/CoreGraphics/CGRect+MTExt.swift",
+      "line": 120,
+      "symbol": "CGRect.UnicodeScalarLiteralType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Date+MTExt.swift",
+      "line": 507,
+      "symbol": "Date.getWeekDay(year:month:day:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Date+MTExt.swift",
+      "line": 674,
+      "symbol": "Date.startOfWeek(weekday:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Date+MTExt.swift",
+      "line": 701,
+      "symbol": "Date.zeroOfDay()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Numberal+MTExt.swift",
+      "line": 7,
+      "symbol": "IndexHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 169,
+      "symbol": "Double.millisecond",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 170,
+      "symbol": "Double.milliseconds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 171,
+      "symbol": "Double.ms",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 173,
+      "symbol": "Double.second",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 174,
+      "symbol": "Double.seconds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 176,
+      "symbol": "Double.minute",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 177,
+      "symbol": "Double.minutes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 179,
+      "symbol": "Double.hour",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 180,
+      "symbol": "Double.hours",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 182,
+      "symbol": "Double.day",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Foundation/Timer+MTExt.swift",
+      "line": 183,
+      "symbol": "Double.days",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Shared/UIColor+MTExt.swift",
+      "line": 21,
+      "symbol": "UIColor.mt_binaryColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Shared/UIColor+MTExt.swift",
+      "line": 180,
+      "symbol": "UIColor.color(minSaturation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Stdlib/Dictionary+MTExt.swift",
+      "line": 144,
+      "symbol": "Dictionary.union(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Stdlib/Dictionary+MTExt.swift",
+      "line": 385,
+      "symbol": "Dictionary.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Stdlib/Optional+MTExt.swift",
+      "line": 28,
+      "symbol": "Optional.isNilOrEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/Stdlib/Optional+MTExt.swift",
+      "line": 55,
+      "symbol": "TextContaining.isEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIButton+MTExt.swift",
+      "line": 10,
+      "symbol": "UIButtonImageHorizontalAlignment.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIButton+MTExt.swift",
+      "line": 10,
+      "symbol": "UIButtonImageHorizontalAlignment.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 60,
+      "symbol": "Size.unknownSize",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 61,
+      "symbol": "Size.screen3_5Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 62,
+      "symbol": "Size.screen4Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 63,
+      "symbol": "Size.screen4_7Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 64,
+      "symbol": "Size.screen5_5Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 65,
+      "symbol": "Size.screen5_8Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 66,
+      "symbol": "Size.screen6_1Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 67,
+      "symbol": "Size.screen6_5Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 68,
+      "symbol": "Size.screen7_9Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 69,
+      "symbol": "Size.screen9_7Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 70,
+      "symbol": "Size.screen12_9Inch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 158,
+      "symbol": "UIDevice.Versions.eight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 159,
+      "symbol": "UIDevice.Versions.nine",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 160,
+      "symbol": "UIDevice.Versions.ten",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 161,
+      "symbol": "UIDevice.Versions.eleven",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIDevice+MTExt.swift",
+      "line": 162,
+      "symbol": "UIDevice.Versions.twelve",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UINavigationBar+Adjustable.swift",
+      "line": 67,
+      "symbol": "UINavigationBar.mt_setBackgroundLayerHeight(height:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": null,
+      "symbol": "Identifiable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": null,
+      "symbol": "LoadableNib",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": null,
+      "symbol": "LoadableNib",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 46,
+      "symbol": "Identifiable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 48,
+      "symbol": "Identifiable.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 53,
+      "symbol": "Identifiable.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 60,
+      "symbol": "LoadableNib",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 62,
+      "symbol": "LoadableNib.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 67,
+      "symbol": "LoadableNib.nib",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 75,
+      "symbol": "UIView.instantiateFromNib(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 83,
+      "symbol": "UIView.instantiateFromNibOwner(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 99,
+      "symbol": "LoadableNib.instantiate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 110,
+      "symbol": "UITableView.register(cell:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 115,
+      "symbol": "UITableView.register(cell:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIStoryboard+MTExt.swift",
+      "line": 120,
+      "symbol": "UITableView.dequeue(cell:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIView+MTExt.swift",
+      "line": 402,
+      "symbol": "UIView.roundCorners(_:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIView+MTExt.swift",
+      "line": 591,
+      "symbol": "UIView.UIViewAnimationFlipDirection.top",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIView+MTExt.swift",
+      "line": 592,
+      "symbol": "UIView.UIViewAnimationFlipDirection.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIView+MTExt.swift",
+      "line": 593,
+      "symbol": "UIView.UIViewAnimationFlipDirection.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Extensions/UIKit/UIView+MTExt.swift",
+      "line": 594,
+      "symbol": "UIView.UIViewAnimationFlipDirection.bottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 145,
+      "symbol": "MTDirection.top",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 146,
+      "symbol": "MTDirection.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 147,
+      "symbol": "MTDirection.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 148,
+      "symbol": "MTDirection.bottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 149,
+      "symbol": "MTDirection.degree(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 155,
+      "symbol": "MTDirection.startPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/CustomGradients.swift",
+      "line": 171,
+      "symbol": "MTDirection.endPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/GCDTimer.swift",
+      "line": 53,
+      "symbol": "GCDTimer.Event",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 20,
+      "symbol": "KeychainSwift.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 296,
+      "symbol": "KeychainSwiftConstants",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 297,
+      "symbol": "KeychainSwiftConstants.klass",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 298,
+      "symbol": "KeychainSwiftConstants.classGenericPassword",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 299,
+      "symbol": "KeychainSwiftConstants.attrAccount",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 300,
+      "symbol": "KeychainSwiftConstants.valueData",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 301,
+      "symbol": "KeychainSwiftConstants.returnData",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Keychain.swift",
+      "line": 302,
+      "symbol": "KeychainSwiftConstants.matchLimit",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.authStateChanged",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.biometryLockedOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.biometryNotAvailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.failed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.other",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.systemCancelled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 39,
+      "symbol": "LocalAuthError.userCancelled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 41,
+      "symbol": "LocalAuthError.initError(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 59,
+      "symbol": "LocalAuthError.getErrorMessage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTAuthManager.swift",
+      "line": 85,
+      "symbol": "MTAuthManager.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTExceptionHandle.swift",
+      "line": 10,
+      "symbol": "exceptionHandler(exception:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 16,
+      "symbol": "MTKitError.jsonSerialization",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 17,
+      "symbol": "MTKitError.errorLoadingSound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 18,
+      "symbol": "MTKitError.pathNotExist",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 19,
+      "symbol": "MTKitError.pathNotAllowed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 27,
+      "symbol": "MT.gotoAppStore(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 269,
+      "symbol": "MT.log(_:file:function:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 288,
+      "symbol": "MT.logLevel.info",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 290,
+      "symbol": "MT.logLevel.debug",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 292,
+      "symbol": "MT.logLevel.warn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 294,
+      "symbol": "MT.logLevel.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 296,
+      "symbol": "MT.logLevel.fatal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 298,
+      "symbol": "MT.logLevel.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 341,
+      "symbol": "MT.TODO(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTFunctions.swift",
+      "line": 346,
+      "symbol": "MT.TODO_",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 55,
+      "symbol": "MTImageGradientDirection.toLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 56,
+      "symbol": "MTImageGradientDirection.toRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 57,
+      "symbol": "MTImageGradientDirection.toTop",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 58,
+      "symbol": "MTImageGradientDirection.toBottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 59,
+      "symbol": "MTImageGradientDirection.toBottomLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 60,
+      "symbol": "MTImageGradientDirection.toBottomRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 61,
+      "symbol": "MTImageGradientDirection.toTopLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 62,
+      "symbol": "MTImageGradientDirection.toTopRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 63,
+      "symbol": "MTImageGradientDirection.degree(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTGradientButton.swift",
+      "line": 154,
+      "symbol": "UIImage.init(fillColor:size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTImageColors.swift",
+      "line": 30,
+      "symbol": "UIImageColorsQuality.lowest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTImageColors.swift",
+      "line": 31,
+      "symbol": "UIImageColorsQuality.low",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTImageColors.swift",
+      "line": 32,
+      "symbol": "UIImageColorsQuality.high",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTImageColors.swift",
+      "line": 33,
+      "symbol": "UIImageColorsQuality.highest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 142,
+      "symbol": "MTSystemSound.AudioID.newMail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 143,
+      "symbol": "MTSystemSound.AudioID.mailSent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 144,
+      "symbol": "MTSystemSound.AudioID.voiceMail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 145,
+      "symbol": "MTSystemSound.AudioID.recivedMessage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 146,
+      "symbol": "MTSystemSound.AudioID.sentMessage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 147,
+      "symbol": "MTSystemSound.AudioID.alarm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 148,
+      "symbol": "MTSystemSound.AudioID.lowPower",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 149,
+      "symbol": "MTSystemSound.AudioID.smsReceived1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 150,
+      "symbol": "MTSystemSound.AudioID.smsReceived2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 151,
+      "symbol": "MTSystemSound.AudioID.smsReceived3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 152,
+      "symbol": "MTSystemSound.AudioID.smsReceived4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 153,
+      "symbol": "MTSystemSound.AudioID.smsReceived5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 154,
+      "symbol": "MTSystemSound.AudioID.smsReceived6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 155,
+      "symbol": "MTSystemSound.AudioID.tweetSent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 156,
+      "symbol": "MTSystemSound.AudioID.anticipate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 157,
+      "symbol": "MTSystemSound.AudioID.bloom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 158,
+      "symbol": "MTSystemSound.AudioID.calypso",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 159,
+      "symbol": "MTSystemSound.AudioID.chooChoo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 160,
+      "symbol": "MTSystemSound.AudioID.descent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 161,
+      "symbol": "MTSystemSound.AudioID.fanfare",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 162,
+      "symbol": "MTSystemSound.AudioID.ladder",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 163,
+      "symbol": "MTSystemSound.AudioID.minuet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 164,
+      "symbol": "MTSystemSound.AudioID.newsFlash",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 165,
+      "symbol": "MTSystemSound.AudioID.noir",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 166,
+      "symbol": "MTSystemSound.AudioID.sherwoodForest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 167,
+      "symbol": "MTSystemSound.AudioID.spell",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 168,
+      "symbol": "MTSystemSound.AudioID.suspence",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 169,
+      "symbol": "MTSystemSound.AudioID.telegraph",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 170,
+      "symbol": "MTSystemSound.AudioID.tiptoes",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 171,
+      "symbol": "MTSystemSound.AudioID.typewriters",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 172,
+      "symbol": "MTSystemSound.AudioID.update",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 173,
+      "symbol": "MTSystemSound.AudioID.ussdAlert",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 174,
+      "symbol": "MTSystemSound.AudioID.simToolkitCallDropped",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 175,
+      "symbol": "MTSystemSound.AudioID.simToolkitGeneralBeep",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 176,
+      "symbol": "MTSystemSound.AudioID.simToolkitNegativeACK",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 177,
+      "symbol": "MTSystemSound.AudioID.simToolkitPositiveACK",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 178,
+      "symbol": "MTSystemSound.AudioID.simToolkitSMS",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 179,
+      "symbol": "MTSystemSound.AudioID.tink",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 180,
+      "symbol": "MTSystemSound.AudioID.ctBusy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 181,
+      "symbol": "MTSystemSound.AudioID.ctCongestion",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 182,
+      "symbol": "MTSystemSound.AudioID.ctPathACK",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 183,
+      "symbol": "MTSystemSound.AudioID.ctError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 184,
+      "symbol": "MTSystemSound.AudioID.ctCallWaiting",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 185,
+      "symbol": "MTSystemSound.AudioID.ctKeytone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 186,
+      "symbol": "MTSystemSound.AudioID.lock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 187,
+      "symbol": "MTSystemSound.AudioID.unlock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 188,
+      "symbol": "MTSystemSound.AudioID.failedUnlock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 189,
+      "symbol": "MTSystemSound.AudioID.keypressedTink",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 190,
+      "symbol": "MTSystemSound.AudioID.keypressedTock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 191,
+      "symbol": "MTSystemSound.AudioID.tock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 192,
+      "symbol": "MTSystemSound.AudioID.beepBeep",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 193,
+      "symbol": "MTSystemSound.AudioID.ringerCharged",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 194,
+      "symbol": "MTSystemSound.AudioID.photoShutter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 195,
+      "symbol": "MTSystemSound.AudioID.shake",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 196,
+      "symbol": "MTSystemSound.AudioID.jblBegin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 197,
+      "symbol": "MTSystemSound.AudioID.jblConfirm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 198,
+      "symbol": "MTSystemSound.AudioID.jblCancel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 199,
+      "symbol": "MTSystemSound.AudioID.beginRecording",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 200,
+      "symbol": "MTSystemSound.AudioID.endRecording",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 201,
+      "symbol": "MTSystemSound.AudioID.jblAmbiguous",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 202,
+      "symbol": "MTSystemSound.AudioID.jblNoMatch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 203,
+      "symbol": "MTSystemSound.AudioID.beginVideoRecord",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 204,
+      "symbol": "MTSystemSound.AudioID.endVideoRecord",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 205,
+      "symbol": "MTSystemSound.AudioID.vcInvitationAccepted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 206,
+      "symbol": "MTSystemSound.AudioID.vcRinging",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 207,
+      "symbol": "MTSystemSound.AudioID.vcEnded",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 208,
+      "symbol": "MTSystemSound.AudioID.vcCallWaiting",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 209,
+      "symbol": "MTSystemSound.AudioID.vcCallUpgrade",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 210,
+      "symbol": "MTSystemSound.AudioID.touchTone1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 211,
+      "symbol": "MTSystemSound.AudioID.touchTone2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 212,
+      "symbol": "MTSystemSound.AudioID.touchTone3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 213,
+      "symbol": "MTSystemSound.AudioID.touchTone4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 214,
+      "symbol": "MTSystemSound.AudioID.touchTone5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 215,
+      "symbol": "MTSystemSound.AudioID.touchTone6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 216,
+      "symbol": "MTSystemSound.AudioID.touchTone7",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 217,
+      "symbol": "MTSystemSound.AudioID.touchTone8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 218,
+      "symbol": "MTSystemSound.AudioID.touchTone9",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 219,
+      "symbol": "MTSystemSound.AudioID.touchTone10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 220,
+      "symbol": "MTSystemSound.AudioID.touchToneStar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 221,
+      "symbol": "MTSystemSound.AudioID.touchTonePound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 222,
+      "symbol": "MTSystemSound.AudioID.headsetStartCall",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 223,
+      "symbol": "MTSystemSound.AudioID.headsetRedial",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 224,
+      "symbol": "MTSystemSound.AudioID.headsetAnswerCall",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 225,
+      "symbol": "MTSystemSound.AudioID.headsetEndCall",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 226,
+      "symbol": "MTSystemSound.AudioID.headsetCallWaitingActions",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 227,
+      "symbol": "MTSystemSound.AudioID.headsetTransitionEnd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 228,
+      "symbol": "MTSystemSound.AudioID.voicemail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 229,
+      "symbol": "MTSystemSound.AudioID.receivedMessage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 230,
+      "symbol": "MTSystemSound.AudioID.newMail2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 231,
+      "symbol": "MTSystemSound.AudioID.mailSent2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 232,
+      "symbol": "MTSystemSound.AudioID.alarm2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 233,
+      "symbol": "MTSystemSound.AudioID.lock2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 234,
+      "symbol": "MTSystemSound.AudioID.tock2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 235,
+      "symbol": "MTSystemSound.AudioID.smsReceived1_2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 236,
+      "symbol": "MTSystemSound.AudioID.smsReceived2_2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 237,
+      "symbol": "MTSystemSound.AudioID.smsReceived3_2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 238,
+      "symbol": "MTSystemSound.AudioID.smsReceived4_2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 239,
+      "symbol": "MTSystemSound.AudioID.smsReceivedVibrate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 240,
+      "symbol": "MTSystemSound.AudioID.smsReceived1_3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 241,
+      "symbol": "MTSystemSound.AudioID.smsReceived5_3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 242,
+      "symbol": "MTSystemSound.AudioID.smsReceived6_3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 243,
+      "symbol": "MTSystemSound.AudioID.voicemail2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 244,
+      "symbol": "MTSystemSound.AudioID.anticipate2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 245,
+      "symbol": "MTSystemSound.AudioID.bloom2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 246,
+      "symbol": "MTSystemSound.AudioID.calypso2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 247,
+      "symbol": "MTSystemSound.AudioID.chooChoo2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 248,
+      "symbol": "MTSystemSound.AudioID.descent2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 249,
+      "symbol": "MTSystemSound.AudioID.fanfare2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 250,
+      "symbol": "MTSystemSound.AudioID.ladder2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 251,
+      "symbol": "MTSystemSound.AudioID.minuet2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 252,
+      "symbol": "MTSystemSound.AudioID.newsFlash2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 253,
+      "symbol": "MTSystemSound.AudioID.noir2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 254,
+      "symbol": "MTSystemSound.AudioID.sherwoodForest2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 255,
+      "symbol": "MTSystemSound.AudioID.spell2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 256,
+      "symbol": "MTSystemSound.AudioID.suspence2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 257,
+      "symbol": "MTSystemSound.AudioID.telegraph2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 258,
+      "symbol": "MTSystemSound.AudioID.tiptoes2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 259,
+      "symbol": "MTSystemSound.AudioID.typewriters2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 260,
+      "symbol": "MTSystemSound.AudioID.update2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 261,
+      "symbol": "MTSystemSound.AudioID.ringerVibeChanged",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 262,
+      "symbol": "MTSystemSound.AudioID.silentVibeChanged",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTSystemSound.swift",
+      "line": 263,
+      "symbol": "MTSystemSound.AudioID.vibrate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTTimer.swift",
+      "line": 115,
+      "symbol": "MTTimer.throttle(interval:identifier:queue:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 10,
+      "symbol": "UserDefaults.Proxy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 21,
+      "symbol": "UserDefaults.Proxy.object",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 25,
+      "symbol": "UserDefaults.Proxy.string",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 29,
+      "symbol": "UserDefaults.Proxy.array",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 33,
+      "symbol": "UserDefaults.Proxy.dictionary",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 37,
+      "symbol": "UserDefaults.Proxy.data",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 41,
+      "symbol": "UserDefaults.Proxy.date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 45,
+      "symbol": "UserDefaults.Proxy.number",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 49,
+      "symbol": "UserDefaults.Proxy.int",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 53,
+      "symbol": "UserDefaults.Proxy.double",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 57,
+      "symbol": "UserDefaults.Proxy.bool",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 63,
+      "symbol": "UserDefaults.Proxy.stringValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 67,
+      "symbol": "UserDefaults.Proxy.arrayValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 71,
+      "symbol": "UserDefaults.Proxy.dictionaryValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 75,
+      "symbol": "UserDefaults.Proxy.dataValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 79,
+      "symbol": "UserDefaults.Proxy.numberValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 83,
+      "symbol": "UserDefaults.Proxy.intValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 87,
+      "symbol": "UserDefaults.Proxy.doubleValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 91,
+      "symbol": "UserDefaults.Proxy.boolValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 198,
+      "symbol": "DefaultsKey._key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 200,
+      "symbol": "DefaultsKey.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 230,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 235,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 240,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 245,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 250,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 255,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 260,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 265,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 270,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 275,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 280,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 285,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 290,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 297,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 302,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 310,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 315,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 326,
+      "symbol": "UserDefaults.getArray(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 330,
+      "symbol": "UserDefaults.getArray(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 334,
+      "symbol": "UserDefaults.getArray(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 338,
+      "symbol": "UserDefaults.getArray(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 344,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 349,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 354,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 359,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 364,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 369,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 374,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 379,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 384,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 389,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 394,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 399,
+      "symbol": "UserDefaults.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 409,
+      "symbol": "UserDefaults.archive(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 413,
+      "symbol": "UserDefaults.archive(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 421,
+      "symbol": "UserDefaults.unarchive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 425,
+      "symbol": "UserDefaults.unarchive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 433,
+      "symbol": "UserDefaults.archive(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 437,
+      "symbol": "UserDefaults.archive(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 445,
+      "symbol": "UserDefaults.unarchive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 449,
+      "symbol": "UserDefaults.unarchive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/MTUserDefaults.swift",
+      "line": 478,
+      "symbol": "+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/SelfAware.swift",
+      "line": 29,
+      "symbol": "SelfAware.awake()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/SelfAware.swift",
+      "line": 71,
+      "symbol": "UIApplication.next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 21,
+      "symbol": "Swizzler.getSwizzle(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 25,
+      "symbol": "Swizzler.removeSwizzle(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 29,
+      "symbol": "Swizzler.setSwizzle(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 33,
+      "symbol": "Swizzler.swizzleSelector(_:withSelector:for:name:block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 72,
+      "symbol": "Swizzler.unswizzleSelector(_:aClass:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 88,
+      "symbol": "Swizzle",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTCobwebs/MTCobwebs/Helper/Swizzle.swift",
+      "line": 94,
+      "symbol": "Swizzle.init(block:name:aClass:selector:originalMethod:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lc/Documents/Mantis/MTCobwebs"
+}

@@ -1,0 +1,824 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/MTNetworkManager.swift",
+      "line": 14,
+      "symbol": "ApiClient",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/MTNetworkManager.swift",
+      "line": 43,
+      "symbol": "MTNetworkManager.sessionManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/MTNetworkManager.swift",
+      "line": 208,
+      "symbol": "MTNetworkManager.post2(_:verifySign:completion:failure:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkConfig.swift",
+      "line": 18,
+      "symbol": "JSONDictionary",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkConfig.swift",
+      "line": 90,
+      "symbol": "APIVersion.v3",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkConfig.swift",
+      "line": 91,
+      "symbol": "APIVersion.v5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkConfig.swift",
+      "line": 96,
+      "symbol": "SignalType.md5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkConfig.swift",
+      "line": 97,
+      "symbol": "SignalType.rsa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkExtension.swift",
+      "line": 17,
+      "symbol": "MTNetworkReachabilityStatus.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkExtension.swift",
+      "line": 18,
+      "symbol": "MTNetworkReachabilityStatus.notReachable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkExtension.swift",
+      "line": 19,
+      "symbol": "MTNetworkReachabilityStatus.ethernetOrWiFi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/Network/NetworkExtension.swift",
+      "line": 20,
+      "symbol": "MTNetworkReachabilityStatus.wwan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": null,
+      "symbol": "SwiftyJSONError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 35,
+      "symbol": "ErrorIndexOutOfBounds",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 37,
+      "symbol": "ErrorWrongType",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 39,
+      "symbol": "ErrorNotExist",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 41,
+      "symbol": "ErrorInvalidJSON",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 43,
+      "symbol": "SwiftyJSONError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 44,
+      "symbol": "SwiftyJSONError.unsupportedType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 45,
+      "symbol": "SwiftyJSONError.indexOutOfBounds",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 46,
+      "symbol": "SwiftyJSONError.elementTooDeep",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 47,
+      "symbol": "SwiftyJSONError.wrongType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 48,
+      "symbol": "SwiftyJSONError.notExist",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 49,
+      "symbol": "SwiftyJSONError.invalidJSON",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 87,
+      "symbol": "Type.number",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 88,
+      "symbol": "Type.string",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 89,
+      "symbol": "Type.bool",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 90,
+      "symbol": "Type.array",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 91,
+      "symbol": "Type.dictionary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 92,
+      "symbol": "Type.null",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 93,
+      "symbol": "Type.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 98,
+      "symbol": "JSON",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 292,
+      "symbol": "JSON.null",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 313,
+      "symbol": "Index",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 314,
+      "symbol": "Index.array(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 315,
+      "symbol": "Index.dictionary(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 316,
+      "symbol": "Index.null",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 342,
+      "symbol": "JSONIndex",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 343,
+      "symbol": "JSONRawIndex",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 401,
+      "symbol": "JSONKey.index(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 402,
+      "symbol": "JSONKey.key(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 405,
+      "symbol": "JSONSubscriptType",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 406,
+      "symbol": "JSONSubscriptType.jsonKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 410,
+      "symbol": "Int.jsonKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 416,
+      "symbol": "String.jsonKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 619,
+      "symbol": "JSON.rawData(options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 627,
+      "symbol": "JSON.rawString(_:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 636,
+      "symbol": "JSON.rawString(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 751,
+      "symbol": "JSON.array",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 760,
+      "symbol": "JSON.arrayValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 765,
+      "symbol": "JSON.arrayObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 789,
+      "symbol": "JSON.dictionary",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 802,
+      "symbol": "JSON.dictionaryValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 808,
+      "symbol": "JSON.dictionaryObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 832,
+      "symbol": "JSON.bool",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 851,
+      "symbol": "JSON.boolValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 875,
+      "symbol": "JSON.string",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 894,
+      "symbol": "JSON.stringValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 918,
+      "symbol": "JSON.number",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 935,
+      "symbol": "JSON.numberValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 962,
+      "symbol": "JSON.null",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 975,
+      "symbol": "JSON.exists()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 988,
+      "symbol": "JSON.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1015,
+      "symbol": "JSON.double",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1028,
+      "symbol": "JSON.doubleValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1037,
+      "symbol": "JSON.float",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1050,
+      "symbol": "JSON.floatValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1059,
+      "symbol": "JSON.int",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1072,
+      "symbol": "JSON.intValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1081,
+      "symbol": "JSON.uInt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1094,
+      "symbol": "JSON.uIntValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1103,
+      "symbol": "JSON.int8",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1116,
+      "symbol": "JSON.int8Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1125,
+      "symbol": "JSON.uInt8",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1138,
+      "symbol": "JSON.uInt8Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1147,
+      "symbol": "JSON.int16",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1160,
+      "symbol": "JSON.int16Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1169,
+      "symbol": "JSON.uInt16",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1182,
+      "symbol": "JSON.uInt16Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1191,
+      "symbol": "JSON.int32",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1204,
+      "symbol": "JSON.int32Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1213,
+      "symbol": "JSON.uInt32",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1226,
+      "symbol": "JSON.uInt32Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1235,
+      "symbol": "JSON.int64",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1248,
+      "symbol": "JSON.int64Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1257,
+      "symbol": "JSON.uInt64",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1270,
+      "symbol": "JSON.uInt64Value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1284,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1304,
+      "symbol": "<=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1324,
+      "symbol": ">=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1344,
+      "symbol": ">(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1356,
+      "symbol": "<(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1449,
+      "symbol": "writingOptionsKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1450,
+      "symbol": "writingOptionsKeys.jsonSerialization",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1451,
+      "symbol": "writingOptionsKeys.castNilToNSNull",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1452,
+      "symbol": "writingOptionsKeys.maxObjextDepth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTNetworkManager/MTNetworkManager/SwiftyJSON/SwiftyJSON.swift",
+      "line": 1453,
+      "symbol": "writingOptionsKeys.encoding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lc/Documents/Mantis/MTNetworkManager"
+}

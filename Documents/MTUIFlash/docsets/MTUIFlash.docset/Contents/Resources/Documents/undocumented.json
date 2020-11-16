@@ -1,0 +1,1734 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UIColor.swift",
+      "line": 13,
+      "symbol": "UIColor.shadeDarker()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UISlider.swift",
+      "line": null,
+      "symbol": "Slider",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UISlider.swift",
+      "line": 12,
+      "symbol": "Slider",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UISlider.swift",
+      "line": 16,
+      "symbol": "Slider.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UISlider.swift",
+      "line": 22,
+      "symbol": "Slider.touchesEnded(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UISlider.swift",
+      "line": 28,
+      "symbol": "Slider.touchesCancelled(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Button/UISlider.swift",
+      "line": 69,
+      "symbol": "Slider.tintColorDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/CheckBox/MTFlatSwitch.swift",
+      "line": 117,
+      "symbol": "MTFlatSwitch.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/CheckBox/MTFlatSwitch.swift",
+      "line": 123,
+      "symbol": "MTFlatSwitch.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/CheckBox/MTFlatSwitch.swift",
+      "line": 192,
+      "symbol": "MTFlatSwitch.layoutSublayers(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/DotsLoading/DotsLoadingView.swift",
+      "line": 25,
+      "symbol": "DotsLoadingView.colors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/GMStepper/GMStepper.swift",
+      "line": 238,
+      "symbol": "GMStepper.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/GMStepper/GMStepper.swift",
+      "line": 308,
+      "symbol": "GMStepper.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTAlert.swift",
+      "line": 13,
+      "symbol": "MTAlert.init(title:message:preferredStyle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTBadgeButton.swift",
+      "line": 31,
+      "symbol": "MTBadgeButton.isShowingBadge",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTGradientView.swift",
+      "line": 94,
+      "symbol": "MTGradientView.blurLayer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTGradientView.swift",
+      "line": 95,
+      "symbol": "MTGradientView.gradientLayer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 96,
+      "symbol": "MTImageBrowserViewController.imageInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 97,
+      "symbol": "MTImageBrowserViewController.transitionInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 147,
+      "symbol": "MTImageBrowserViewController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 153,
+      "symbol": "MTImageBrowserViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 304,
+      "symbol": "MTImageBrowserViewController.viewForZooming(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 308,
+      "symbol": "MTImageBrowserViewController.scrollViewDidZoom(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 316,
+      "symbol": "MTImageBrowserViewController.animationController(forPresented:presenting:source:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 320,
+      "symbol": "MTImageBrowserViewController.animationController(forDismissed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTImageBrowser/MTImageBrowserViewController.swift",
+      "line": 415,
+      "symbol": "MTImageBrowserViewController.gestureRecognizerShouldBegin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 21,
+      "symbol": "MTLinearProgressView.barColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 54,
+      "symbol": "MTLinearProgressView.isCornersRounded",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 65,
+      "symbol": "MTLinearProgressView.maximumValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 72,
+      "symbol": "MTLinearProgressView.minimumValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 79,
+      "symbol": "MTLinearProgressView.progress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 91,
+      "symbol": "MTLinearProgressView.barInset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 97,
+      "symbol": "MTLinearProgressView.animationDuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 104,
+      "symbol": "MTLinearProgressView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 109,
+      "symbol": "MTLinearProgressView.prepare()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 126,
+      "symbol": "MTLinearProgressView.setProgress(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTLinearProgressView.swift",
+      "line": 136,
+      "symbol": "MTLinearProgressView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 20,
+      "symbol": "MTDecimalKeyboardButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 30,
+      "symbol": "MTDecimalKeyboardTextButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 33,
+      "symbol": "MTDecimalKeyboardZeroButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 39,
+      "symbol": "MTDecimalKeyboardOneButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 45,
+      "symbol": "MTDecimalKeyboardTwoButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 51,
+      "symbol": "MTDecimalKeyboardThreeButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 57,
+      "symbol": "MTDecimalKeyboardFourButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 63,
+      "symbol": "MTDecimalKeyboardFiveButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 69,
+      "symbol": "MTDecimalKeyboardSixButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 75,
+      "symbol": "MTDecimalKeyboardSevenButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 81,
+      "symbol": "MTDecimalKeyboardEightButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 87,
+      "symbol": "MTDecimalKeyboardNineButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 93,
+      "symbol": "MTDecimalKeyboardDotButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 105,
+      "symbol": "MTDecimalKeyboardDotButton.theButtonText()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 109,
+      "symbol": "MTDecimalKeyboardDotButton.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 116,
+      "symbol": "MTDecimalKeyboardHideButtonButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 123,
+      "symbol": "MTDecimalKeyboardBackspaceButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTDecimalKeyboardButton.swift",
+      "line": 129,
+      "symbol": "MTDecimalKeyboardReturnButtonButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": null,
+      "symbol": "MTNumberKeyboardViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 10,
+      "symbol": "MTNumberKeyboardViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 20,
+      "symbol": "MTNumberKeyboardViewController.backspaceAction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 21,
+      "symbol": "MTNumberKeyboardViewController.newTextAction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 22,
+      "symbol": "MTNumberKeyboardViewController.returnAction",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 32,
+      "symbol": "MTNumberKeyboardViewController.createDecimalKeyboard()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 41,
+      "symbol": "MTNumberKeyboardViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 51,
+      "symbol": "MTNumberKeyboardViewController.updateViewConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 56,
+      "symbol": "MTNumberKeyboardViewController.textWillChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 60,
+      "symbol": "MTNumberKeyboardViewController.textDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 75,
+      "symbol": "MTNumberKeyboardViewController.allowDecimalPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 86,
+      "symbol": "MTNumberKeyboardViewController.textButtons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 100,
+      "symbol": "MTNumberKeyboardViewController.numberKeyboardReturnButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 106,
+      "symbol": "MTNumberKeyboardViewController.numberKeyboardBackspaceButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 112,
+      "symbol": "MTNumberKeyboardViewController.numberKeyboardView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 118,
+      "symbol": "MTNumberKeyboardViewController.allButtons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 129,
+      "symbol": "MTNumberKeyboardViewController.setSelectedTextButtonBackgroundImage(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 134,
+      "symbol": "MTNumberKeyboardViewController.setSelectedBackspaceButtonBackgroundImage(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 139,
+      "symbol": "MTNumberKeyboardViewController.setSelectedReturnButtonBackgroundImage(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 144,
+      "symbol": "MTNumberKeyboardViewController.setSelectedTextButtonBackgroundColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 149,
+      "symbol": "MTNumberKeyboardViewController.setSelectedBackspaceButtonBackgroundColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTNumberKeyboardViewController.swift",
+      "line": 154,
+      "symbol": "MTNumberKeyboardViewController.setSelectedReturnButtonBackgroundColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTRegexTextField.swift",
+      "line": 23,
+      "symbol": "MTRegexTextField.regexDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTRegexTextField.swift",
+      "line": 40,
+      "symbol": "MTRegexTextField.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTRegexTextField.swift",
+      "line": 45,
+      "symbol": "MTRegexTextField.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTRegexTextField.swift",
+      "line": 50,
+      "symbol": "MTRegexTextField.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/MTRegexTextField.swift",
+      "line": 94,
+      "symbol": "MTRegexTextField.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 18,
+      "symbol": "=~(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 36,
+      "symbol": "RegexMatchCaptureGenerator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 37,
+      "symbol": "RegexMatchCaptureGenerator.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 46,
+      "symbol": "RegexMatchResult",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 47,
+      "symbol": "RegexMatchResult.items",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 48,
+      "symbol": "RegexMatchResult.generate()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 51,
+      "symbol": "RegexMatchResult.boolValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTNumerKeyboard/Classes/Regex.swift",
+      "line": 54,
+      "symbol": "RegexMatchResult.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPlaceholderTextView.swift",
+      "line": 68,
+      "symbol": "MTPlaceholderTextView.attributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPlaceholderTextView.swift",
+      "line": 137,
+      "symbol": "MTPlaceholderTextView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 44,
+      "symbol": "MTConfiguration.menuRowHeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 45,
+      "symbol": "MTConfiguration.menuWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 46,
+      "symbol": "MTConfiguration.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 47,
+      "symbol": "MTConfiguration.textFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 48,
+      "symbol": "MTConfiguration.borderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 49,
+      "symbol": "MTConfiguration.borderWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 50,
+      "symbol": "MTConfiguration.backgoundTintColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 51,
+      "symbol": "MTConfiguration.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 52,
+      "symbol": "MTConfiguration.textAlignment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 53,
+      "symbol": "MTConfiguration.ignoreImageOriginalColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 54,
+      "symbol": "MTConfiguration.menuSeparatorColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 55,
+      "symbol": "MTConfiguration.menuSeparatorInset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 383,
+      "symbol": "MTPopOverMenu.gestureRecognizer(_:shouldReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 638,
+      "symbol": "UIScreen.ft_width()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTPopoverMenu.swift",
+      "line": 641,
+      "symbol": "UIScreen.ft_height()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 21,
+      "symbol": "MTSegmentedControl.defaultTextFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 22,
+      "symbol": "MTSegmentedControl.selectedTextFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 23,
+      "symbol": "MTSegmentedControl.defaultTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 24,
+      "symbol": "MTSegmentedControl.selectedTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 25,
+      "symbol": "MTSegmentedControl.useGradient",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 27,
+      "symbol": "MTSegmentedControl.containerBackgroundColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 28,
+      "symbol": "MTSegmentedControl.thumbColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 29,
+      "symbol": "MTSegmentedControl.thumbGradientColors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 30,
+      "symbol": "MTSegmentedControl.thumbShadowColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 31,
+      "symbol": "MTSegmentedControl.useShadow",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 34,
+      "symbol": "MTSegmentedControl.padding",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 35,
+      "symbol": "MTSegmentedControl.segCornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 37,
+      "symbol": "MTSegmentedControl.DraggingState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 38,
+      "symbol": "MTSegmentedControl.DraggingState.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 39,
+      "symbol": "MTSegmentedControl.DraggingState.dragging",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 40,
+      "symbol": "MTSegmentedControl.DraggingState.cancel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 43,
+      "symbol": "MTSegmentedControl.itemTitles",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 54,
+      "symbol": "MTSegmentedControl.allowDrag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 55,
+      "symbol": "MTSegmentedControl.allowChangeThumbWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 149,
+      "symbol": "MTSegmentedControl.UIColorFromRGB(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 342,
+      "symbol": "MTSegmentedControl.touchesEnded(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 362,
+      "symbol": "MTSegmentedControl.touchesMoved(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 383,
+      "symbol": "MTSegmentedControl.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 394,
+      "symbol": "MTSegmentedControl.touchesCancelled(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 609,
+      "symbol": "MTSegmentedControl.currentIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 618,
+      "symbol": "MTSegmentedControl.selectItemAt(index:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 627,
+      "symbol": "MTSegmentedControl.changeTitle(_:atIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 659,
+      "symbol": "MTSegmentedControl.changeAttributedTitle(_:selectedTile:atIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 692,
+      "symbol": "MTSegmentedControl.titleForItemAtIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 700,
+      "symbol": "MTSegmentedControl.attributedTitleAtIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 704,
+      "symbol": "MTSegmentedControl.changeThumbShadowColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 712,
+      "symbol": "MTSegmentedControl.changeThumbColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 720,
+      "symbol": "MTSegmentedControl.changeBackgroundColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTSegmentedControl.swift",
+      "line": 728,
+      "symbol": "MTSegmentedControl.changeThumbGradientColors(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTShadowImageView.swift",
+      "line": 11,
+      "symbol": "ShadowImageView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTShadowImageView.swift",
+      "line": 82,
+      "symbol": "ShadowImageView.contentMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTShadowImageView.swift",
+      "line": 88,
+      "symbol": "ShadowImageView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTActiveTextField.swift",
+      "line": 41,
+      "symbol": "MTActiveTextField.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTAttributedTextField.swift",
+      "line": 51,
+      "symbol": "MTAttributedTextField.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTAttributedTextField.swift",
+      "line": 56,
+      "symbol": "MTAttributedTextField.showInfo(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTBorderedTextField.swift",
+      "line": 43,
+      "symbol": "MTBorderedTextField.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTBorderedTextField.swift",
+      "line": 53,
+      "symbol": "MTBorderedTextField.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTPlaceholderTextField.swift",
+      "line": 15,
+      "symbol": "MTPlaceholderTextField.MinimizationAnimationType.immediately",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTPlaceholderTextField.swift",
+      "line": 17,
+      "symbol": "MTPlaceholderTextField.MinimizationAnimationType.smoothly",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTPlaceholderTextField.swift",
+      "line": 59,
+      "symbol": "MTPlaceholderTextField.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTPlaceholderTextField.swift",
+      "line": 65,
+      "symbol": "MTPlaceholderTextField.attributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTTextField/MTPlaceholderTextField.swift",
+      "line": 81,
+      "symbol": "MTPlaceholderTextField.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 9,
+      "symbol": "WalkthroughAnimationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 10,
+      "symbol": "WalkthroughAnimationType.Linear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 11,
+      "symbol": "WalkthroughAnimationType.Curve",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 12,
+      "symbol": "WalkthroughAnimationType.Zoom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 13,
+      "symbol": "WalkthroughAnimationType.InOut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 25,
+      "symbol": "MTWalkthroughPageViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 33,
+      "symbol": "MTWalkthroughPageViewController.speed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 34,
+      "symbol": "MTWalkthroughPageViewController.speedVariance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 35,
+      "symbol": "MTWalkthroughPageViewController.animationType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 43,
+      "symbol": "MTWalkthroughPageViewController.animateAlpha",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 44,
+      "symbol": "MTWalkthroughPageViewController.staticTags",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughPageViewController.swift",
+      "line": 54,
+      "symbol": "MTWalkthroughPageViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 16,
+      "symbol": "MTWalkthroughViewControllerDelegate.walkthroughCloseButtonPressed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 17,
+      "symbol": "MTWalkthroughViewControllerDelegate.walkthroughNextButtonPressed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 18,
+      "symbol": "MTWalkthroughViewControllerDelegate.walkthroughPrevButtonPressed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 19,
+      "symbol": "MTWalkthroughViewControllerDelegate.walkthroughPageDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 48,
+      "symbol": "MTWalkthroughViewController.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 51,
+      "symbol": "MTWalkthroughViewController.pageControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 52,
+      "symbol": "MTWalkthroughViewController.nextButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 53,
+      "symbol": "MTWalkthroughViewController.prevButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 54,
+      "symbol": "MTWalkthroughViewController.closeButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 56,
+      "symbol": "MTWalkthroughViewController.currentPage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 63,
+      "symbol": "MTWalkthroughViewController.currentViewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 70,
+      "symbol": "MTWalkthroughViewController.numberOfPages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 79,
+      "symbol": "MTWalkthroughViewController.scrollview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 86,
+      "symbol": "MTWalkthroughViewController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 98,
+      "symbol": "MTWalkthroughViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 119,
+      "symbol": "MTWalkthroughViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 131,
+      "symbol": "MTWalkthroughViewController.nextPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 139,
+      "symbol": "MTWalkthroughViewController.prevPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 234,
+      "symbol": "MTWalkthroughViewController.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 258,
+      "symbol": "MTWalkthroughViewController.scrollViewDidEndDecelerating(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 262,
+      "symbol": "MTWalkthroughViewController.scrollViewDidEndScrollingAnimation(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 278,
+      "symbol": "MTWalkthroughViewController.willTransition(to:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/MTWalkthrough/MTWalkthroughViewController.swift",
+      "line": 282,
+      "symbol": "MTWalkthroughViewController.viewWillTransition(to:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 13,
+      "symbol": "PastelGradient.warmFlame",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 14,
+      "symbol": "PastelGradient.nightFade",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 15,
+      "symbol": "PastelGradient.springWarmth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 16,
+      "symbol": "PastelGradient.juicyPeach",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 17,
+      "symbol": "PastelGradient.youngPassion",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 18,
+      "symbol": "PastelGradient.ladyLips",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 19,
+      "symbol": "PastelGradient.sunnyMorning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 20,
+      "symbol": "PastelGradient.rainyAshville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 21,
+      "symbol": "PastelGradient.frozenDreams",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelGradient.swift",
+      "line": 22,
+      "symbol": "PastelGradient.winterNeva",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 38,
+      "symbol": "PastelView.PastelPoint",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 39,
+      "symbol": "PastelView.PastelPoint.left",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 40,
+      "symbol": "PastelView.PastelPoint.top",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 41,
+      "symbol": "PastelView.PastelPoint.right",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 42,
+      "symbol": "PastelView.PastelPoint.bottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 43,
+      "symbol": "PastelView.PastelPoint.topLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 44,
+      "symbol": "PastelView.PastelPoint.topRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 45,
+      "symbol": "PastelView.PastelPoint.bottomLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 46,
+      "symbol": "PastelView.PastelPoint.bottomRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 63,
+      "symbol": "PastelView.startPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 64,
+      "symbol": "PastelView.endPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 66,
+      "symbol": "PastelView.startPastelPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 72,
+      "symbol": "PastelView.endPastelPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 79,
+      "symbol": "PastelView.animationDuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 101,
+      "symbol": "PastelView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 105,
+      "symbol": "PastelView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/Pastel/PastelView.swift",
+      "line": 176,
+      "symbol": "PastelView.animationDidStop(_:finished:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 48,
+      "symbol": "PopBubble.arrowSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 49,
+      "symbol": "PopBubble.animationIn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 50,
+      "symbol": "PopBubble.animationOut",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 51,
+      "symbol": "PopBubble.popCornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 52,
+      "symbol": "PopBubble.sideEdge",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 53,
+      "symbol": "PopBubble.popBubbleType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 54,
+      "symbol": "PopBubble.blackOverlayColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 55,
+      "symbol": "PopBubble.overlayBlur",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/PopBubble.swift",
+      "line": 56,
+      "symbol": "PopBubble.popColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 20,
+      "symbol": "SnakePageControl.pageCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 25,
+      "symbol": "SnakePageControl.progress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 30,
+      "symbol": "SnakePageControl.currentPage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 37,
+      "symbol": "SnakePageControl.activeTint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 42,
+      "symbol": "SnakePageControl.inactiveTint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 47,
+      "symbol": "SnakePageControl.indicatorPadding",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 54,
+      "symbol": "SnakePageControl.indicatorRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 130,
+      "symbol": "SnakePageControl.intrinsicContentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/SnakePageControl.swift",
+      "line": 134,
+      "symbol": "SnakePageControl.sizeThatFits(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 12,
+      "symbol": "ResponderStandardEditActions.copy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 12,
+      "symbol": "ResponderStandardEditActions.cut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 12,
+      "symbol": "ResponderStandardEditActions.delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 12,
+      "symbol": "ResponderStandardEditActions.paste",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 12,
+      "symbol": "ResponderStandardEditActions.select",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 12,
+      "symbol": "ResponderStandardEditActions.selectAll",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 13,
+      "symbol": "ResponderStandardEditActions.makeTextWritingDirectionLeftToRight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 13,
+      "symbol": "ResponderStandardEditActions.makeTextWritingDirectionRightToLeft",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 14,
+      "symbol": "ResponderStandardEditActions.toggleBoldface",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 14,
+      "symbol": "ResponderStandardEditActions.toggleItalics",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 14,
+      "symbol": "ResponderStandardEditActions.toggleUnderline",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 15,
+      "symbol": "ResponderStandardEditActions.decreaseSize",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/lc/Documents/Mantis/MTUIFlash/MTUIFlash/TextField.swift",
+      "line": 15,
+      "symbol": "ResponderStandardEditActions.increaseSize",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/lc/Documents/Mantis/MTUIFlash"
+}
